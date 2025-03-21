@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 config.json
 *.png
 *.jpg
 *.jpeg
 *.bmp
 *.gif
+=======
+ 
+>>>>>>> 102713e (Dodati .gitignore za ignorisanje poverljivih podataka i slika)
